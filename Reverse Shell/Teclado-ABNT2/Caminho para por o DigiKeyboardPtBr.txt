@@ -1,0 +1,4 @@
+C:\Users\"Nome do seu user"\AppData\Local\Arduino15\packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard
+
+
+Colar o arquivo no caminho acima.
